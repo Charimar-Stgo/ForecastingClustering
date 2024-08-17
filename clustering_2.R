@@ -1,5 +1,5 @@
 # Specify the file path to your CSV file
-file_path <- "/Users/charimarsantiago/Desktop/Data Jam/CMS excercise/CMS datasets/mpa_data.csv"
+file_path <- "filename/mpa_data.csv"
 
 # Read the CSV file into a data frame
 name_data <- read.csv(file_path)
